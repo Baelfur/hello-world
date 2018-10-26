@@ -1,2 +1,3 @@
 # hello-world
-stop being bad beaver
+
+I used to be a bad beaver. Then I learned how to use Git. Now I am a good beaver.
